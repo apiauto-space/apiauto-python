@@ -1,7 +1,7 @@
 # apiauto — Python client for the Encar, Che168, Copart and IAAI API
 
-[![PyPI version](https://img.shields.io/pypi/v/apiauto.svg)](https://pypi.org/project/apiauto/)
-[![Python versions](https://img.shields.io/pypi/pyversions/apiauto.svg)](https://pypi.org/project/apiauto/)
+[![PyPI version](https://img.shields.io/pypi/v/apiauto-space.svg)](https://pypi.org/project/apiauto-space/)
+[![Python versions](https://img.shields.io/pypi/pyversions/apiauto-space.svg)](https://pypi.org/project/apiauto-space/)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/apiauto-space/apiauto-python/blob/main/LICENSE)
 
 `apiauto` is a typed Python client for the [apiauto.space](https://apiauto.space/en/) REST API: used-car
@@ -21,8 +21,10 @@ Encar, Che168/Autohome, Copart or IAAI; the data comes through the apiauto.space
 ## Install
 
 ```bash
-pip install apiauto
+pip install apiauto-space
 ```
+
+The distribution is called `apiauto-space` on PyPI; the module you import is `apiauto`.
 
 ## Get a key
 
@@ -307,7 +309,7 @@ The API reference: [apiauto.space/en/docs](https://apiauto.space/en/docs/) and t
 
 | Language | Package | Repository |
 | --- | --- | --- |
-| Python | `pip install apiauto` | [apiauto-space/apiauto-python](https://github.com/apiauto-space/apiauto-python) |
+| Python | `pip install apiauto-space` | [apiauto-space/apiauto-python](https://github.com/apiauto-space/apiauto-python) |
 | JavaScript, TypeScript | `npm install apiauto` | [apiauto-space/apiauto-js](https://github.com/apiauto-space/apiauto-js) |
 | curl, PHP and more | — | [apiauto-space/encar-api-examples](https://github.com/apiauto-space/encar-api-examples) |
 
@@ -322,7 +324,7 @@ The API reference: [apiauto.space/en/docs](https://apiauto.space/en/docs/) and t
 и держите на сервере, не в браузере. Документация на русском: [apiauto.space/docs](https://apiauto.space/docs/).
 
 ```bash
-pip install apiauto
+pip install apiauto-space
 ```
 
 ```python

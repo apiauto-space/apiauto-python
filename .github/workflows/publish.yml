@@ -34,7 +34,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: pypi
-      url: https://pypi.org/project/apiauto/
+      url: https://pypi.org/project/apiauto-space/
     permissions:
       id-token: write
     steps:

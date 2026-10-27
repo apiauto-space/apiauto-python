@@ -12,7 +12,7 @@ code), report it the same way so that it can be replaced.
 
 ## Supported versions
 
-Security fixes go into the latest release on [PyPI](https://pypi.org/project/apiauto/).
+Security fixes go into the latest release on [PyPI](https://pypi.org/project/apiauto-space/).
 
 ## Handling keys
 

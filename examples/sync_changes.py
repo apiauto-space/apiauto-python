@@ -1,6 +1,6 @@
 """Keep a local copy of a market fresh with the change feed.
 
-    pip install apiauto
+    pip install apiauto-space
     export APIAUTO_KEY=...
     python sync_changes.py kr
 

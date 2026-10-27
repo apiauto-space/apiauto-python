@@ -1,6 +1,6 @@
 """Query the three markets concurrently with AsyncClient.
 
-    pip install apiauto
+    pip install apiauto-space
     export APIAUTO_KEY=...
     python async_search.py
 

@@ -1,6 +1,6 @@
 """Search Encar, Che168 and US auction lots with one client.
 
-    pip install apiauto
+    pip install apiauto-space
     export APIAUTO_KEY=...   # free demo key: https://t.me/apiautospace_bot?start=demo
     python search.py
 
