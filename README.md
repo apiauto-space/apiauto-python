@@ -311,7 +311,9 @@ The API reference: [apiauto.space/en/docs](https://apiauto.space/en/docs/) and t
 | --- | --- | --- |
 | Python | `pip install apiauto-space` | [apiauto-space/apiauto-python](https://github.com/apiauto-space/apiauto-python) |
 | JavaScript, TypeScript | `npm install apiauto` | [apiauto-space/apiauto-js](https://github.com/apiauto-space/apiauto-js) |
-| curl, PHP and more | — | [apiauto-space/encar-api-examples](https://github.com/apiauto-space/encar-api-examples) |
+| PHP | `composer require apiauto/apiauto` | [apiauto-space/apiauto-php](https://github.com/apiauto-space/apiauto-php) |
+| Go | `go get github.com/apiauto-space/apiauto-go` | [apiauto-space/apiauto-go](https://github.com/apiauto-space/apiauto-go) |
+| curl and examples | — | [Encar](https://github.com/apiauto-space/encar-api-examples), [Che168](https://github.com/apiauto-space/che168-api-examples), [Copart](https://github.com/apiauto-space/copart-api-examples), [IAAI](https://github.com/apiauto-space/iaai-api-examples) |
 
 ## По-русски
 
