@@ -8,7 +8,7 @@
 listings from **Encar** (South Korea), **Che168** (China) and the **Copart** and **IAAI** auctions (USA) in
 one JSON record format, without writing a scraper. Search the catalogs by make, model, year, price and
 mileage, page through whole markets, follow a feed of new cars, sold cars and price changes, and read
-quota headers — from sync or async code. It is an unofficial client: the project is not affiliated with
+quota headers — from sync or async code. It is the official client from the apiauto.space team; the project is not affiliated with
 Encar, Che168/Autohome, Copart or IAAI; the data comes through the apiauto.space API.
 
 - Sync `Client` and `AsyncClient` on top of [httpx](https://www.python-httpx.org/), the only dependency
@@ -343,7 +343,7 @@ for car in client.cars("kr", brand="Kia", year_min=2021, limit=20)["items"]:
 
 ## Disclaimer
 
-This is an unofficial client of the apiauto.space API. It is not affiliated with, endorsed by or
+This is the official client of the apiauto.space API, from the apiauto.space team. It is not affiliated with, endorsed by or
 sponsored by Encar, Che168, Autohome, Copart or IAAI; their names are used only to describe where the
 listings come from, and all trademarks belong to their owners. Use of the data is subject to the
 [apiauto.space terms](https://apiauto.space/en/offer/).

@@ -9,7 +9,7 @@ JSON record format::
         for car in client.cars("kr", brand="Kia", year_min=2020, limit=20)["items"]:
             print(car["id"], car["title"], car["price"])
 
-Unofficial: not affiliated with Encar, Che168/Autohome, Copart or IAAI.
+Official client from the apiauto.space team. Not affiliated with Encar, Che168/Autohome, Copart or IAAI.
 """
 
 from ._async_client import AsyncClient

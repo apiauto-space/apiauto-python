@@ -4,6 +4,13 @@ All notable changes to this project are documented here. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses
 [Semantic Versioning](https://semver.org/).
 
+## [0.1.1] — 2026-11-03
+
+### Changed
+
+- The texts now say that this is the official client from the apiauto.space team. It stays
+  independent of Encar, Che168/Autohome, Copart and IAAI. The code did not change.
+
 ## [0.1.0] — 2026-10-27
 
 First release.
@@ -23,4 +30,5 @@ First release.
 - Quota and rate-limit headers in `client.last_response`.
 - `TypedDict` types for every response and `py.typed`.
 
+[0.1.1]: https://github.com/apiauto-space/apiauto-python/releases/tag/v0.1.1
 [0.1.0]: https://github.com/apiauto-space/apiauto-python/releases/tag/v0.1.0
